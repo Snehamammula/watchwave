@@ -1,0 +1,29 @@
+{
+  "name": "watchwave",
+  "version": "1.0.0",
+  "description": "WatchWave - Movie and TV Show Management Platform",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "next": "^14.0.0",
+    "firebase": "^10.7.0",
+    "tailwindcss": "^3.4.0",
+    "axios": "^1.6.0",
+    "react-icons": "^4.12.0",
+    "date-fns": "^2.30.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.0",
+    "@types/react": "^18.2.0",
+    "@types/react-dom": "^18.2.0",
+    "@types/node": "^20.10.0",
+    "postcss": "^8.4.31",
+    "autoprefixer": "^10.4.16"
+  }
+}
